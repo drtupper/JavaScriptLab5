@@ -1,0 +1,34 @@
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+h1{
+    font-size: 5.681rem;
+}
+
+h2{
+    font-size: 4.209rem;
+}
+
+p, a, li{
+    font-size: 2rem;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+    
+    
+}
+ul.bare{
+    list-style-type: none;
+}
+
+
+
+
